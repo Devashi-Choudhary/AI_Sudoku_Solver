@@ -14,8 +14,7 @@ Deep Learning based AI_Sudoku_Solver architecture uses [OpenCV](https://opencv.o
 2. Make sure you have the correct version of Python installed on your machine. This code runs on Python 3.6 above.
 3. Now, install the required libraries.
 4. Now, you can use pretrained digit recognition model, it's inside `Resources` Folder. The [MNIST](https://en.wikipedia.org/wiki/MNIST_database) is used for digit recognition using Deep Learning CNN model. 
-5. You also need caffe based face detector model for face detection and it is inside face_detection folder.
-6. Now, Open terminal and type the following command:
+5. Now, Open terminal and type the following command:
 > `python Main.py`
 
 The above command is used for solving sudoku in images, and for real time sudoku solver, use webcam (Opencv for capturing Video).
@@ -23,3 +22,5 @@ The above command is used for solving sudoku in images, and for real time sudoku
 # Results
 
 1. Sudoku Solver in Images.
+
+[Output](https://github.com/Devashi-Choudhary/AI_Sudoku_Solver/blob/main/Resources/output.JPG)
