@@ -23,4 +23,4 @@ The above command is used for solving sudoku in images, and for real time sudoku
 
 1. Sudoku Solver in Images.
 
-[Output](https://github.com/Devashi-Choudhary/AI_Sudoku_Solver/blob/main/Resources/output.JPG)
+![Output](https://github.com/Devashi-Choudhary/AI_Sudoku_Solver/blob/main/Resources/output.JPG)
