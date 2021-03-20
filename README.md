@@ -1,6 +1,6 @@
 # AI_Sudoku_Solver
 
-Sudoku a puzzle in which players insert the numbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller squares in such a way that every number appears once in each horizontal line, vertical line, and square.
+Sudoku, a puzzle in which players insert the numbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller squares in such a way that every number appears once in each horizontal line, vertical line, and square.
 
 Here, using OpenCV, DeepLearnng and Backtracking Algorithm is used to solve the puzzle. First, build the Character Recognition model that can extract digits from a Sudoku grid image and then work on a backtracking approach to solve it.
 
