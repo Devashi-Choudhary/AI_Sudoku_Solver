@@ -24,3 +24,10 @@ The above command is used for solving sudoku in images, and for real time sudoku
 1. Sudoku Solver in Images.
 
 ![Output](https://github.com/Devashi-Choudhary/AI_Sudoku_Solver/blob/main/Resources/output.JPG)
+
+
+# References
+
+1. [Sudoku Solver](https://github.com/murtazahassan/OpenCV-Sudoku-Solver)
+2. [Digit Recognition](https://github.com/kurapan/CNN-MNIST)
+3. [BackTracking Algorithm](https://techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/)
