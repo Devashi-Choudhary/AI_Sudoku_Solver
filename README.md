@@ -4,6 +4,8 @@ Sudoku, a puzzle in which players insert the numbers one to nine into a grid con
 
 Here, using OpenCV, DeepLearnng and Backtracking Algorithm is used to solve the puzzle. First, build the Character Recognition model that can extract digits from a Sudoku grid image and then work on a backtracking approach to solve it.
 
+[![](http://i3.ytimg.com/vi/CNzuO1nFK2M/maxresdefault.jpg)](https://www.youtube.com/watch?v=CNzuO1nFK2M)
+
 # Dependencis
 
 Deep Learning based AI_Sudoku_Solver architecture uses [OpenCV](https://opencv.org/) (opencv==4.2.0) and Python (python==3.7). The model Convolution Neural Network(CNN) uses [Keras](https://keras.io/) (keras==2.3.1) on [Tensorflow](https://www.tensorflow.org/) for Digit Recognition.
